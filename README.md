@@ -17,15 +17,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mansoor-ali-0701&" alt="mansoor-ali-0701" /></p>
 
-.bg-pan-top {
-	animation: bg-pan-top 5s both;
-}
-@keyframes bg-pan-top {
-  0% {
-    background-position: 50% 100%;
-  }
-  100% {
-    background-position: 50% 0%;
-  }
-}
 

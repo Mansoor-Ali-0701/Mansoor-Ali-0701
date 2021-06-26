@@ -1,3 +1,4 @@
+<img src="/Brief-History-of-Programming-Languages.jpg" alt="banner" />
 <h1 align="center">Welcome 👋, I'm Mansoor Ali</h1>
 <h3 align="center">An Aspiring Software Engineer</h3>
 

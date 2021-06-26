@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mansoor Ali</h1>
+<h1 align="center">Welcome 👋, I'm Mansoor Ali</h1>
 <h3 align="center">A Passionate and Aspiring Software Engineer</h3>
 
 - 🔭 I’m currently working on **CISP 360**

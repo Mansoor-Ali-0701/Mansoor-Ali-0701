@@ -1,4 +1,4 @@
-<img align="center" src="/giphy.gif"/>
+<img src="/giphy.gif"/>
 <h1 align="center">Salutation 👋, I'm Mansoor Ali</h1>
 <h3 align="center">An Aspiring Software Engineer</h3>
 <img src="/Brief-History-of-Programming-Languages.jpg" alt="banner" />

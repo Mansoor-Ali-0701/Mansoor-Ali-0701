@@ -3,7 +3,7 @@
 <h3 align="center">An Aspiring Software Engineer</h3>
 <img src="/Brief-History-of-Programming-Languages.jpg" alt="banner" />
 
-- 🔭 I’m currently working on **CISP 360**
+- 🔭 I’m currently working on **CISP 400**
 
 - 🌱 I’m currently learning **C++**
 
